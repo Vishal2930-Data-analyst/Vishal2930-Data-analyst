@@ -1,6 +1,5 @@
 ## 🎯 Data Analyst | Excel | SQL | Power BI | Python | Tableau  
-I am a passionate **Data Analyst** with strong skills in **SQL, Python, Excel, and Power BI**.  
-I enjoy transforming raw data into **meaningful insights** and building **interactive dashboards** that support data-driven decision-making.
+I am a passionate **Data Analyst** with strong skills in **SQL, Python, Excel, and Power BI**. I enjoy transforming raw data into **meaningful insights** and building **interactive dashboards** that support data-driven decision-making.
 
 💡 I have worked on projects involving **Data Analysis, Machine Learning, and Business Intelligence**, including:
 - 📈 **Excel-based Business Dashboards**
