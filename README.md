@@ -3,22 +3,12 @@ I am a passionate **Data Analyst** with strong skills in **SQL, Python, Excel, a
 I enjoy transforming raw data into **meaningful insights** and building **interactive dashboards** that support data-driven decision-making.
 
 💡 I have worked on projects involving **Data Analysis, Machine Learning, and Business Intelligence**, including:
-
-- 📊 **E-commerce Sales Dashboard (Power BI)**
 - 📈 **Excel-based Business Dashboards**
+- 📊 **Supply Chain & Logistics Dashboard (Power BI – Apple)**  
+- 📊 **E-commerce Sales Dashboard (Power BI)**
 - 🤖 **Machine Learning Models** (Salary, Heart Attack, Smartphone Addiction)
 
 🚀 Currently exploring **Advanced Analytics, Machine Learning, and Real-World Data Problems**
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages & Tools
-`SQL` • `Python` • `Excel` • `Power BI` • `Tableau`
-
-### 📦 Libraries
-`Pandas` • `NumPy` • `Scikit-learn`
 
 ### 📊 Core Skills
 - Data Cleaning  
