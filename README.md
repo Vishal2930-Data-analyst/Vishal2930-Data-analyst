@@ -1,7 +1,30 @@
 ## 🎯 Data Analyst | Excel | SQL | Power BI | Python | Tableau  
-I am a passionate Data Analyst with strong skills in SQL, Python, Excel, and Power BI. I enjoy transforming raw data into meaningful insights and building interactive dashboards that support data-driven decision-making.<br>
-💡 I have worked on projects involving data analysis, machine learning, and business intelligence, including:<br>📈 Excel-based business dashboards<br><br>- 📊 E-commerce Sales Dashboard (Power BI)<br>- 🤖 Machine Learning Models (Salary, Heart Attack, Smartphone Addiction)<br>- 🚀 Currently exploring advanced analytics, machine learning, and real-world data problems.<br><br>---<br><br>### 🛠️ Skills<br>- SQL | Python | Excel | Power BI | Tableau  <br>- Pandas | NumPy | Scikit-learn  <br>- Data Cleaning | EDA | ETL | Data Visualization  <br>
+I am a passionate **Data Analyst** with strong skills in **SQL, Python, Excel, and Power BI**.  
+I enjoy transforming raw data into **meaningful insights** and building **interactive dashboards** that support data-driven decision-making.
 
+💡 I have worked on projects involving **Data Analysis, Machine Learning, and Business Intelligence**, including:
+
+- 📊 **E-commerce Sales Dashboard (Power BI)**
+- 📈 **Excel-based Business Dashboards**
+- 🤖 **Machine Learning Models** (Salary, Heart Attack, Smartphone Addiction)
+
+🚀 Currently exploring **Advanced Analytics, Machine Learning, and Real-World Data Problems**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages & Tools
+`SQL` • `Python` • `Excel` • `Power BI` • `Tableau`
+
+### 📦 Libraries
+`Pandas` • `NumPy` • `Scikit-learn`
+
+### 📊 Core Skills
+- Data Cleaning  
+- Exploratory Data Analysis (EDA)  
+- ETL Processes  
+- Data Visualization  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_iamvishal0630) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishal-borse2930/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishalborse8881@gmail.com) 
